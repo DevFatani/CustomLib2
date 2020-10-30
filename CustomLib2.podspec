@@ -15,4 +15,5 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '10.0'
 
   s.source_files = 'Src/**/*.swift'
+  s.swift_versions = "5.0"
 end
