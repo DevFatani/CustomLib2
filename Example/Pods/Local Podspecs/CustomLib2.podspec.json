@@ -1,0 +1,22 @@
+{
+  "name": "CustomLib2",
+  "version": "0.1.0",
+  "summary": "A short description of CustomLib2.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/DevFatani/CustomLib2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "DevFatani": "i_fatani@outlook.com"
+  },
+  "source": {
+    "git": "https://github.com/DevFatani/CustomLib2.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CustomLib2/Classes/**/*"
+}

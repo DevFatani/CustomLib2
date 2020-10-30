@@ -1,0 +1,6 @@
+framework module CustomLib2 {
+  umbrella header "CustomLib2-umbrella.h"
+
+  export *
+  module * { export * }
+}
